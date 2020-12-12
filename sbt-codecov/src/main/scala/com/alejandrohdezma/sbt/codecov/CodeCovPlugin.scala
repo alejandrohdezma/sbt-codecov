@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.alejandrohdezma.sbt.codeocv
+package com.alejandrohdezma.sbt.codecov
 
 import scala.sys.process._
 
